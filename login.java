@@ -1,8 +1,13 @@
-hello java 
+public class loginuser
+{
+	public static void main(string args[] {
+		int i;
 
 
-hell world
-
-
-
-jyrytfdkhedkjweryshjf
+		for(i=10;i<=10;i++){
+			system.output.println("number: " +i)
+		
+		
+		}		
+	}
+}	
